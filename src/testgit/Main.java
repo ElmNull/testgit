@@ -14,8 +14,4 @@ public class Main {
 
 	}
 
-	private void foo() {
-
-	}
-
 }

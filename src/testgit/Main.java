@@ -6,6 +6,10 @@ public class Main {
 
 	}
 
+	private void foo() {
+
+	}
+
 	public void test() {
 
 	}
